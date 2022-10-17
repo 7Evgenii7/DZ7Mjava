@@ -1,8 +1,7 @@
-package ru.netology.stats.test;
+package ru.netology.stats;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import ru.netology.stats.StatsService;
 
 public class StatsServiceTesting {
 
